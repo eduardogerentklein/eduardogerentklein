@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning NextJs, Design System and always looking to learning about the best practices of software development.
 - 👯 I’m looking to collaborate on FullStack Development
 - 💬 Ask me about C#, JavaScript, VueJs, Design Patterns...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardoklein/) and [Twitter](https://twitter.com/Klein1Eduardo)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardoklein/), [Twitter](https://twitter.com/Klein1Eduardo) or my [WebSite](https://www.eduardoklein.com/)
 
 <!--
 **eduardogerentklein/eduardogerentklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
