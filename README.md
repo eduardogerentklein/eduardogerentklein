@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Fulltech Pro](https://www.linkedin.com/company/fulltech-tecnologia)
 - 🌱 I’m currently learning NextJs, Design System and always looking to learning about the best practices of software development.
 - 👯 I’m looking to collaborate on FullStack Development
-- 💬 Ask me about C#, JavaScript, VueJs, Design Patterns...
+- 💬 Ask me about C#, JavaScript, VueJs, Design Patterns and Software Engineering in general
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardoklein/), [Twitter](https://twitter.com/Klein1Eduardo) or my [WebSite](https://www.eduardoklein.com/)
 
 <!--
