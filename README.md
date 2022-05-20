@@ -5,8 +5,9 @@
 
 - 🔭 I’m currently working on [Fulltech Pro](https://www.linkedin.com/company/fulltech-tecnologia).
 - 🌱 I’m currently learning Design System and the best practices of software development (SD).
-- 👯 I’m looking to collaborate on FullStack development or Frontend development.
-- 💬 Ask me about C#, JavaScript, ReactJs, NextJs, Design Patterns, and Software Engineering in general.
+- 👯 I’m looking to collaborate on Front-end development or Full-stack development.
+- 🐱‍💻 My main languages are: JavaScript, TypeScript, and C#.
+- 💬 Ask me about C#, JavaScript, TypeScript, Design Patterns, and Software Engineering in general.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardoklein/), [Twitter](https://twitter.com/Klein1Eduardo), or my [WebSite](https://www.eduardoklein.com/).
 - ✈ Passionate about New Zealand and willing to immigrate there.
 
