@@ -9,7 +9,6 @@
 - 🐱‍💻 My main languages are: JavaScript, TypeScript, and C#.
 - 💬 Ask me about C#, JavaScript, TypeScript, Design Patterns, and Software Engineering in general.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardoklein/), [Twitter](https://twitter.com/Klein1Eduardo), or my [WebSite](https://www.eduardoklein.com/).
-- ✈ Passionate about New Zealand and willing to immigrate there.
 
 <!--
 **eduardogerentklein/eduardogerentklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
