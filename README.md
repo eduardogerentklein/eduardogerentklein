@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on Full-stack development.
 - 🐱‍💻 My main languages are: JavaScript, and C#.
 - 💬 Ask me about C#, JavaScript, Design Patterns, and Software Engineering in general.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardoklein/). You can also visit my [WebSite](https://www.eduardoklein.com/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardoklein/). 
+- 🐱‍💻 [Portfolio - Website](https://www.eduardoklein.com/).
 
 <!--
 **eduardogerentklein/eduardogerentklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
